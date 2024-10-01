@@ -87,7 +87,7 @@ L'applicazione prevede due livelli di accesso:
 ## 🚀 Installazione
 
 1. **Clona il repository**:
-   git clone https://github.com/aniaBeninati/SicilyPulse.git
+   git clone https://github.com/Adriana1206/SicilyPulse
 
 2. **Naviga nella cartella del progetto:**:
    cd final-project-cb10-team-d
