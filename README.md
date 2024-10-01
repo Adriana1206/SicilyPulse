@@ -100,7 +100,7 @@ L'applicazione prevede due livelli di accesso:
 
 ## 🌐 Demo Online
 
-Visita la demo del progetto: [SicilyPulse](https://sicily-pulse.vercel.app/)
+Visita la demo del progetto: [SicilyPulse](https://sicily-pulse-iota.vercel.app/)
 
   ## 👥 Il nostro TEAM
 
